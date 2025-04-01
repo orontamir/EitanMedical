@@ -27,8 +27,7 @@ namespace IoTService.Services
             try
             {
                 var url = _configuration.GetValue<string?>("Communication:HeartRateReading:API:SendAllHeartRateReadings") ?? throw new Exception("No API url exist");
-                LogService.LogInformation($"url = {url}");
-                LogService.LogInformation($"heartRateReadings = {heartRateReadings}");
+                LogService.LogInformation($"url = {url}"); 
                 await _httpService.PostAsync<string>(url, new System.Collections.Generic.Dictionary<string, object>(), heartRateReadings);
                 return true;
             }
@@ -45,7 +44,6 @@ namespace IoTService.Services
             {
                 var url = _configuration.GetValue<string?>("Communication:Patient:API:SendAllPatients") ?? throw new Exception("No API url exist");
                 LogService.LogInformation($"url = {url}");
-                LogService.LogInformation($"patients = {url}");
                 await _httpService.PostAsync<string>(url, new System.Collections.Generic.Dictionary<string, object>(), patients);
                 return true;
             }
