@@ -1,177 +1,189 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\",
+  "WorkspaceRootPath": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\controllers\\heartratereadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\controllers\\heartratereadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\base\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\controllers\\heartratereadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\controllers\\heartratereadingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\eitanmedical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\eitanmedical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dal\\sql\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\services\\heartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\services\\heartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\interfaces\\iheartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\interfaces\\iheartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\models\\extensions\\patientextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\models\\extensions\\patientextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\models\\extensions\\heartratereadingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\models\\extensions\\heartratereadingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\base\\models\\patientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\models\\patientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\base\\models\\heartratereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\models\\heartratereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\interfaces\\iioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\interfaces\\iioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\iotservice\\interfaces\\iiotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\interfaces\\iiotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\interfaces\\iiotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\entities\\heartratereadingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dal\\sql\\entities\\heartratereadingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\services\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\services\\iotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\base\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\services\\dalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\services\\dalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\services\\httpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\base\\base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\interfaces\\iioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\interfaces\\iioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\services\\ioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\services\\ioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\iotservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\iotservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\eitanmedical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\eitanmedical.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\base\\base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\base\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\iotservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F43B25-B9C8-4123-B768-3EA76B314BBA}|IoTService\\IoTService.csproj|solutionrelative:iotservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dal\\sql\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\services\\heartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\services\\heartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\interfaces\\iheartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\interfaces\\iheartratereadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\models\\extensions\\patientextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\models\\extensions\\patientextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\models\\extensions\\heartratereadingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\models\\extensions\\heartratereadingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\base\\models\\patientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\models\\patientsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\base\\models\\heartratereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\models\\heartratereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\entities\\heartratereadingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dal\\sql\\entities\\heartratereadingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\base\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}|Base\\Base.csproj|solutionrelative:base\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\services\\dalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\services\\dalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dal\\sql\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dal\\sql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\entities\\patiententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\dal\\sql\\entities\\patiententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\dal\\sql\\entities\\patiententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\voyantis\\dotnet\\eitanmedical\\eitanmedical\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "AbsoluteMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|c:\\oron\\exams\\eitan medical\\dotnet\\eitanmedical\\eitanmedical\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}|EitanMedical\\EitanMedical.csproj|solutionrelative:eitanmedical\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
@@ -182,7 +194,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -202,400 +214,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "EitanMedical\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "EitanMedical\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T09:17:32.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "EitanMedical\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "EitanMedical\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T09:17:36.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "EitanMedical\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "EitanMedical\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T09:18:53.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EitanMedical\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EitanMedical\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T09:18:55.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HeartRateReadingController.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Controllers\\HeartRateReadingController.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Controllers\\HeartRateReadingController.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Controllers\\HeartRateReadingController.cs",
-              "RelativeToolTip": "EitanMedical\\Controllers\\HeartRateReadingController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T19:59:26.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EitanMedical.csproj",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\EitanMedical.csproj",
-              "RelativeDocumentMoniker": "EitanMedical\\EitanMedical.csproj",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\EitanMedical.csproj",
-              "RelativeToolTip": "EitanMedical\\EitanMedical.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-30T12:53:31.845Z",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\appsettings.json",
+              "RelativeDocumentMoniker": "IoTService\\appsettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\appsettings.json",
+              "RelativeToolTip": "IoTService\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T10:14:36.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "Base\\Models\\Patient.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Models\\Patient.cs",
-              "RelativeToolTip": "Base\\Models\\Patient.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:49:53.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Controllers\\PatientController.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "EitanMedical\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAArwEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T19:58:55.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PatientService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Services\\PatientService.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Services\\PatientService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Services\\PatientService.cs",
-              "RelativeToolTip": "EitanMedical\\Services\\PatientService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAArwDoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:09:49.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Schema.sql ",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Schema.sql",
-              "RelativeDocumentMoniker": "EitanMedical\\Schema.sql",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Schema.sql",
-              "RelativeToolTip": "EitanMedical\\Schema.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-30T19:42:46.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IoTController.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Controllers\\IoTController.cs",
-              "RelativeDocumentMoniker": "IoTService\\Controllers\\IoTController.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Controllers\\IoTController.cs",
-              "RelativeToolTip": "IoTService\\Controllers\\IoTController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T22:21:33.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Program.cs",
-              "RelativeDocumentMoniker": "IoTService\\Program.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Program.cs",
-              "RelativeToolTip": "IoTService\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:48:19.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Program.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Program.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Program.cs",
-              "RelativeToolTip": "EitanMedical\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:07:42.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IoTService\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IoTService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T22:21:58.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "EitanMedical\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Properties\\launchSettings.json",
-              "RelativeToolTip": "EitanMedical\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T20:12:53.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "IotService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Services\\IotService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\IotService.cs",
               "RelativeDocumentMoniker": "IoTService\\Services\\IotService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Services\\IotService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\IotService.cs",
               "RelativeToolTip": "IoTService\\Services\\IotService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAjwC0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T22:35:41.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T09:19:00.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "EitanMedical\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "EitanMedical\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-01T09:19:10.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "MainService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Services\\MainService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\MainService.cs",
               "RelativeDocumentMoniker": "IoTService\\Services\\MainService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Services\\MainService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\MainService.cs",
               "RelativeToolTip": "IoTService\\Services\\MainService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwCcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC8AAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T22:15:35.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IPatientService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Interfaces\\IPatientService.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Interfaces\\IPatientService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Interfaces\\IPatientService.cs",
-              "RelativeToolTip": "EitanMedical\\Interfaces\\IPatientService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:01:16.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "EitanMedical\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "EitanMedical\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T20:37:58.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "HttpService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Services\\HttpService.cs",
-              "RelativeDocumentMoniker": "IoTService\\Services\\HttpService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Services\\HttpService.cs",
-              "RelativeToolTip": "IoTService\\Services\\HttpService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T22:17:01.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\docker-compose.yml",
-              "RelativeDocumentMoniker": "EitanMedical\\docker-compose.yml",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\docker-compose.yml",
-              "RelativeToolTip": "EitanMedical\\docker-compose.yml",
-              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-03-30T20:06:54.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
-              "RelativeToolTip": "EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T19:22:45.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PatientExtension.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Models\\Extensions\\PatientExtension.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Models\\Extensions\\PatientExtension.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Models\\Extensions\\PatientExtension.cs",
-              "RelativeToolTip": "EitanMedical\\Models\\Extensions\\PatientExtension.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:54:20.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "HeartRateReadingExtension.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
-              "RelativeToolTip": "EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:39:35.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IHeartRateReadingService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
-              "RelativeToolTip": "EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:00:50.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HeartRateReadingService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Services\\HeartRateReadingService.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Services\\HeartRateReadingService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Services\\HeartRateReadingService.cs",
-              "RelativeToolTip": "EitanMedical\\Services\\HeartRateReadingService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAA9wDYAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:09:36.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "PatientsData.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Models\\PatientsData.cs",
-              "RelativeDocumentMoniker": "Base\\Models\\PatientsData.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Models\\PatientsData.cs",
-              "RelativeToolTip": "Base\\Models\\PatientsData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:52:05.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "HeartRateReading.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Models\\HeartRateReading.cs",
-              "RelativeDocumentMoniker": "Base\\Models\\HeartRateReading.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Models\\HeartRateReading.cs",
-              "RelativeToolTip": "Base\\Models\\HeartRateReading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:50:47.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 9,
               "Title": "IIOService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Interfaces\\IIOService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Interfaces\\IIOService.cs",
               "RelativeDocumentMoniker": "IoTService\\Interfaces\\IIOService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Interfaces\\IIOService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Interfaces\\IIOService.cs",
               "RelativeToolTip": "IoTService\\Interfaces\\IIOService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -604,71 +266,180 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 2,
               "Title": "IIotService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Interfaces\\IIotService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Interfaces\\IIotService.cs",
               "RelativeDocumentMoniker": "IoTService\\Interfaces\\IIotService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\IoTService\\Interfaces\\IIotService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Interfaces\\IIotService.cs",
               "RelativeToolTip": "IoTService\\Interfaces\\IIotService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T22:35:22.893Z"
+              "WhenOpened": "2025-03-30T22:35:22.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "HeartRateReadingEntity.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
-              "RelativeToolTip": "EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowA8AAAATAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "HttpService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\HttpService.cs",
+              "RelativeDocumentMoniker": "IoTService\\Services\\HttpService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\HttpService.cs",
+              "RelativeToolTip": "IoTService\\Services\\HttpService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T19:33:15.276Z"
+              "WhenOpened": "2025-03-30T22:17:01.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\appsettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\appsettings.json",
               "RelativeDocumentMoniker": "EitanMedical\\appsettings.json",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\appsettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\appsettings.json",
               "RelativeToolTip": "EitanMedical\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T20:05:31.866Z"
+              "WhenOpened": "2025-03-30T20:05:31.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "LogService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Services\\LogService.cs",
-              "RelativeDocumentMoniker": "Base\\Services\\LogService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Services\\LogService.cs",
-              "RelativeToolTip": "Base\\Services\\LogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EitanMedical\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EitanMedical\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T20:12:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeartRateReadingController.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Controllers\\HeartRateReadingController.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Controllers\\HeartRateReadingController.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Controllers\\HeartRateReadingController.cs",
+              "RelativeToolTip": "EitanMedical\\Controllers\\HeartRateReadingController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T22:24:36.012Z"
+              "WhenOpened": "2025-03-30T19:59:26.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DALService.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Services\\DALService.cs",
-              "RelativeDocumentMoniker": "EitanMedical\\Services\\DALService.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Services\\DALService.cs",
-              "RelativeToolTip": "EitanMedical\\Services\\DALService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "IOService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\IOService.cs",
+              "RelativeDocumentMoniker": "IoTService\\Services\\IOService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Services\\IOService.cs",
+              "RelativeToolTip": "IoTService\\Services\\IOService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T20:02:58.127Z"
+              "WhenOpened": "2025-04-01T12:45:23.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Program.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Program.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Program.cs",
+              "RelativeToolTip": "EitanMedical\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAArwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:07:42.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IoTService",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\IoTService.csproj",
+              "RelativeDocumentMoniker": "IoTService\\IoTService.csproj",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\IoTService.csproj",
+              "RelativeToolTip": "IoTService\\IoTService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T11:50:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "EitanMedical\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABMAAAAAMjMzMzPzv0YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:58:55.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Dockerfile",
+              "RelativeDocumentMoniker": "IoTService\\Dockerfile",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Dockerfile",
+              "RelativeToolTip": "IoTService\\Dockerfile",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T11:01:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IoTService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IoTService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T22:21:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Dockerfile",
+              "RelativeDocumentMoniker": "EitanMedical\\Dockerfile",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Dockerfile",
+              "RelativeToolTip": "EitanMedical\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-30T20:16:29.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EitanMedical.csproj",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\EitanMedical.csproj",
+              "RelativeDocumentMoniker": "EitanMedical\\EitanMedical.csproj",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\EitanMedical.csproj",
+              "RelativeToolTip": "EitanMedical\\EitanMedical.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T12:53:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Base.csproj",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Base.csproj",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Base.csproj",
               "RelativeDocumentMoniker": "Base\\Base.csproj",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\Base\\Base.csproj",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Base.csproj",
               "RelativeToolTip": "Base\\Base.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -677,23 +448,287 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Dockerfile",
-              "RelativeDocumentMoniker": "EitanMedical\\Dockerfile",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Dockerfile",
-              "RelativeToolTip": "EitanMedical\\Dockerfile",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-30T20:16:29.181Z"
+              "DocumentIndex": 18,
+              "Title": "Schema.sql ",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Schema.sql",
+              "RelativeDocumentMoniker": "EitanMedical\\Schema.sql",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Schema.sql",
+              "RelativeToolTip": "EitanMedical\\Schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-30T19:42:46.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 19,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Services\\PatientService.cs",
+              "RelativeToolTip": "EitanMedical\\Services\\PatientService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAArwDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:09:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\Patient.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Models\\Patient.cs",
+              "RelativeToolTip": "Base\\Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:49:53.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EitanMedical\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EitanMedical\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:18:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EitanMedical\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EitanMedical\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:18:53.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EitanMedical\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EitanMedical\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:17:36.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EitanMedical\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EitanMedical\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:17:32.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Program.cs",
+              "RelativeDocumentMoniker": "IoTService\\Program.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\IoTService\\Program.cs",
+              "RelativeToolTip": "IoTService\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:48:19.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EitanMedical\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T09:19:00.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EitanMedical\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EitanMedical\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-01T09:19:10.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "EitanMedical\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:01:16.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EitanMedical\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EitanMedical\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:37:58.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\docker-compose.yml",
+              "RelativeDocumentMoniker": "EitanMedical\\docker-compose.yml",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\docker-compose.yml",
+              "RelativeToolTip": "EitanMedical\\docker-compose.yml",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-30T20:06:54.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
+              "RelativeToolTip": "EitanMedical\\DAL\\SQL\\RepositoryBase.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:22:45.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PatientExtension.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Models\\Extensions\\PatientExtension.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Models\\Extensions\\PatientExtension.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Models\\Extensions\\PatientExtension.cs",
+              "RelativeToolTip": "EitanMedical\\Models\\Extensions\\PatientExtension.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:54:20.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HeartRateReadingExtension.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
+              "RelativeToolTip": "EitanMedical\\Models\\Extensions\\HeartRateReadingExtension.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:39:35.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IHeartRateReadingService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
+              "RelativeToolTip": "EitanMedical\\Interfaces\\IHeartRateReadingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:00:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HeartRateReadingService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Services\\HeartRateReadingService.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Services\\HeartRateReadingService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Services\\HeartRateReadingService.cs",
+              "RelativeToolTip": "EitanMedical\\Services\\HeartRateReadingService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:09:36.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PatientsData.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Models\\PatientsData.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\PatientsData.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Models\\PatientsData.cs",
+              "RelativeToolTip": "Base\\Models\\PatientsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:52:05.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HeartRateReading.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Models\\HeartRateReading.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\HeartRateReading.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Models\\HeartRateReading.cs",
+              "RelativeToolTip": "Base\\Models\\HeartRateReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:50:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HeartRateReadingEntity.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
+              "RelativeToolTip": "EitanMedical\\DAL\\SQL\\Entities\\HeartRateReadingEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:33:15.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Base\\Services\\LogService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\Base\\Services\\LogService.cs",
+              "RelativeToolTip": "Base\\Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:24:36.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DALService.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Services\\DALService.cs",
+              "RelativeDocumentMoniker": "EitanMedical\\Services\\DALService.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Services\\DALService.cs",
+              "RelativeToolTip": "EitanMedical\\Services\\DALService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:02:58.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "PatientEntity.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\PatientEntity.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\PatientEntity.cs",
               "RelativeDocumentMoniker": "EitanMedical\\DAL\\SQL\\Entities\\PatientEntity.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\PatientEntity.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Entities\\PatientEntity.cs",
               "RelativeToolTip": "EitanMedical\\DAL\\SQL\\Entities\\PatientEntity.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -701,11 +736,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EitanMedical\\DAL\\SQL\\AppDbContext.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\AppDbContext.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\AppDbContext.cs",
               "RelativeToolTip": "EitanMedical\\DAL\\SQL\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -713,11 +748,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Repository.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Repository.cs",
               "RelativeDocumentMoniker": "EitanMedical\\DAL\\SQL\\Repository.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Repository.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\DAL\\SQL\\Repository.cs",
               "RelativeToolTip": "EitanMedical\\DAL\\SQL\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -725,11 +760,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "EitanMedical\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Oron\\Exams\\Voyantis\\Dotnet\\EitanMedical\\EitanMedical\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Oron\\Exams\\Eitan Medical\\DotNet\\EitanMedical\\EitanMedical\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "EitanMedical\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -68,7 +68,7 @@ namespace EitanMedical.Controllers
 
         }
 
-        [NonAction]
+        
         [HttpPost("AddListPatients")]
         public async Task<IActionResult> AddListPatient([FromBody] List<Patient> values)
         {

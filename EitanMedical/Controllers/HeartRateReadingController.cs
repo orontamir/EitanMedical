@@ -44,7 +44,6 @@ namespace EitanMedical.Controllers
            
         }
 
-        [NonAction]
         [HttpPost("AddListHeartRateReadings")]
         public async Task<IActionResult> AddListHeartRateReading([FromBody] List<HeartRateReading> values)
         {

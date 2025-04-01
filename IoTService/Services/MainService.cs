@@ -33,7 +33,9 @@ namespace IoTService.Services
                         foreach (string filename in Directory.EnumerateFiles(filePath, "*.json"))
                         {
                             //Read all patient data from json file
-                            PatientsData? data = await _ioservice.ReadDataFromFileAsync(Path.Combine(filePath,filename));
+                            FileInfo fileInfo = new FileInfo(filename);
+                            string fullFilePath = fileInfo.FullName;
+                            PatientsData? data = await _ioservice.ReadDataFromFileAsync(fullFilePath);
                             if (data != null)
                             {
                                 //Send all patiens to Eitan Medial service

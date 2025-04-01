@@ -10,21 +10,21 @@ WORKDIR /src
 # Copy the solution file if available
 # COPY *.sln ./
 # Copy project directories
-COPY EitanMedical/ EitanMedical/
+COPY IoTService/ IoTService/
 COPY Base/ Base/
 
 # Restore the main project (which should also restore Base if referenced correctly)
-RUN dotnet restore "EitanMedical/EitanMedical.csproj"
+RUN dotnet restore "IoTService/IoTService.csproj"
 
-WORKDIR "/src/EitanMedical"
-RUN dotnet build "EitanMedical.csproj" -c Debug -o /app/build
+WORKDIR "/src/IoTService"
+RUN dotnet build "IoTService.csproj" -c Debug -o /app/build
 
 # Stage for publish
 FROM build AS publish
-RUN dotnet publish "EitanMedical.csproj" -c Debug -o /app/publish
+RUN dotnet publish "IoTService.csproj" -c Debug -o /app/publish
 
 # Final stage for runtime
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "EitanMedical.dll"]
+ENTRYPOINT ["dotnet", "IoTService.dll"]

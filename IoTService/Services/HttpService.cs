@@ -1,5 +1,6 @@
 ﻿using System.Net.Http.Headers;
 using System.Text;
+using Base.Models;
 using Base.Services;
 using Newtonsoft.Json;
 using Serilog;
@@ -57,7 +58,7 @@ namespace IoTService.Services
             try
             {
                 var response = await SendAsync(HttpMethod.Post, url, parameters, bodyContent);
-
+                LogService.LogInformation($"response = {response}");
                 if (response?.StatusCode == System.Net.HttpStatusCode.OK && response?.Content is not null)
                 {
                     string jsonContent = await response.Content.ReadAsStringAsync();
