@@ -1,0 +1,32 @@
+﻿version: '3.8'
+services:
+
+#------------------------ mysql ---------------------------
+  mysql:
+    image: mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: qwerty
+#      MYSQL_DATABASE: root
+    ports:
+      - "3306:3306"
+    volumes:
+      - '~\Documents\Dev\MySQL:/var/lib/mysql'
+      - ./schema.sql:/docker-entrypoint-initdb.d/schema.sql
+
+#------------------------ EitanMedical Server ---------------------------    
+  EitanMedical:
+    container_name: EitanMedical
+    build:
+      context: .
+      dockerfile: Dockerfile  
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://0.0.0.0:80
+      - DB_CONNECTION_STRING=server=host.docker.internal;Port=3306;user=root;password=qwerty;database=EitanMedicalDb
+      - LOG_FOLDER=Log
+    restart: unless-stopped
+    ports:
+      - 80:80
+    depends_on:
+      - mysql

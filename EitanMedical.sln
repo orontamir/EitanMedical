@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EitanMedical", "EitanMedical\EitanMedical.csproj", "{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base", "Base\Base.csproj", "{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTService", "IoTService\IoTService.csproj", "{61F43B25-B9C8-4123-B768-3EA76B314BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8029DA-5370-4BCF-B0C5-25CF3576E9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CB7CAC-1516-484B-A8F8-BEF6821A3A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F43B25-B9C8-4123-B768-3EA76B314BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F43B25-B9C8-4123-B768-3EA76B314BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F43B25-B9C8-4123-B768-3EA76B314BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F43B25-B9C8-4123-B768-3EA76B314BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

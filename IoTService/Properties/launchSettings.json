@@ -1,0 +1,48 @@
+{
+  "profiles": {
+    "IoTService": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "LOG_FOLDER": "Logs"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:6000;http://localhost:81"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "LOG_FOLDER": "Logs"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "environmentVariables": {
+        "ASPNETCORE_URLS": "https://+:443;http://+:80",
+        "LOG_FOLDER": "Logs"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:18425",
+      "sslPort": 44350
+    }
+  },
+  "PathFile": "C:\\Patients",
+  "EitanMedicalUrl": "https://localhost:7000",
+  "HeartRateReadingUrl": "api/HeartRateReading/AddListHeartRateReading",
+  "PatientUrl": "api/Patient/AddListPatient",
+  "LOG_FOLDER": "Logs"
+
+}

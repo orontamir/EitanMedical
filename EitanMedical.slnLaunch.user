@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EitanMedical\\EitanMedical.csproj",
+        "Action": "Start",
+        "DebugTarget": "EitanMedical"
+      },
+      {
+        "Path": "IoTService\\IoTService.csproj",
+        "Action": "Start",
+        "DebugTarget": "IoTService"
+      }
+    ]
+  }
+]
