@@ -27,4 +27,11 @@ RUN dotnet publish "EitanMedical.csproj" -c Debug -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "EitanMedical.dll"]
+# Copy the init script and the schema file into the container
+COPY init.sh /usr/local/bin/init.sh
+COPY Schema.sql /schema.sql
+# Install MySQL client (using default-mysql-client on Debian-based images)
+RUN apt-get update && apt-get install -y default-mysql-client && rm -rf /var/lib/apt/lists/*
+RUN chmod +x /usr/local/bin/init.sh
+# Use the init script as the container entrypoint
+ENTRYPOINT ["/usr/local/bin/init.sh"]
